@@ -1,0 +1,4 @@
+ cd /c/_a/ZhouZihang520.github.io/
+git add -A
+git commit -m "index.html"
+git push
